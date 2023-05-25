@@ -1,0 +1,21 @@
+.listing-data{
+    margin-top: 5%;
+    color:rgb(208, 200, 200);
+    display: flex;
+    margin-left: 10%;
+    font-weight: 400;
+}
+
+.listing-data li{
+    line-height: 2.5rem;
+    padding-right:  20%;
+    overflow-x: hidden;
+    list-style-type: none;
+}
+.lang{
+    margin-top: 50px;
+    line-height: 1.7rem;
+    color:rgb(233, 227, 218);
+    margin-left: 10%;
+    list-style-type: none;
+}
