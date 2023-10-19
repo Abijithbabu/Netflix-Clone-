@@ -3,7 +3,7 @@ import './navBar.css';
 
 function navBar() {
   return (
-    <div className='navbar'>
+    <div className='navbar' style={{position:'fixed', zIndex:10}}>
     <img className='logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1920px-Netflix_2015_logo.svg.png' alt='Netflix logo'></img>
     <li className='list'>
         <ul>Home</ul>

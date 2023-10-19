@@ -4,15 +4,15 @@
     height: 448px;
     color: white;
 }
-.content{
+.contents{
     padding-top: 140px;
     height: 190px;
     padding-left: 15px;
     
 }
-.title{
+.movie-title{
     font-size: 3rem;
-    font-weight: 770;
+    font-weight: 770; 
     padding-bottom: 0.rem;
 }
 .button{
